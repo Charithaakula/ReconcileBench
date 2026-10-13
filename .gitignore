@@ -1,0 +1,17 @@
+# Run outputs (repository root only: task fixtures contain their own results/ folders)
+/runs/
+/results/
+/traces/
+/logs/
+
+# Credentials and local data
+.env
+/harness/codex/auth/
+/sources/
+
+# Python and OS
+__pycache__/
+*.py[cod]
+.venv*/
+.DS_Store
+.tmp_isolation.lock

@@ -1,0 +1,2 @@
+<!-- source: Smartphone penetration rate in top 20 countries worldwide , as of September 2018 -->
+The United Kingdom leads the way in smart phone penetration in the top countries worldwide as of September 2018 at slightly above 0.8. Sweden, Germany and the Netherlands lag slightly behind on 0.7. China, meanwhile, lies much further down the list with a penetration rate below 0.6. Romania sits at the bottom with a rate just above 0.5.

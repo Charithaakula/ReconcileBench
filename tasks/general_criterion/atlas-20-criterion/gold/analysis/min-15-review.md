@@ -1,0 +1,2 @@
+<!-- source: Mine production of nickel in Indonesia from 2006 to 2019 (in 1,000 metric tons) -->
+The lowest production of Nickel was in the year 2015. The highest production of Nickel was in the year 2019*. Between 2006 and 2017 the production of Nickel was always below 400,000 metric tons, with the exception of the year 2013. In the years 2018 and 2019 the production increased strongly to 600,000 metric tons in 2018 and 800,000 metric tons in 2019*.

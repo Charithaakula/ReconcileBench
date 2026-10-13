@@ -1,0 +1,51 @@
+id,title,unit
+c01,Number of Starbucks stores in China from 2005 to 2019,company-operated stores
+c02,Revenue of top healthcare management consulting firms in the United States in 2013 (in million U.S. dollars),Total revenue in million U.S. dollars
+c03,"Mine production of nickel in Indonesia from 2006 to 2019 (in 1,000 metric tons)",Production in thousand metric tons
+c04,"Number of hate crimes recorded by the police in Italy in 2019 , by type",Number of hate crimes
+c05,Share of female police officers for selected countries in 2012,Percentage of total police officers
+c06,"Average price of used cars in Italy as of 2017 , by region (in euros)",Average price in euros
+c07,Tour de France number of overall victories by nation from 1903 to 2019,Tour de France victories
+c08,"Total annual player salaries in the sports industry in 2019/20 , by league (in billion U.S. dollars)",Total player salaries in billion U.S. dollars
+c09,"Percentage of respondents worldwide who agree with the idea of self-quarantine if diagnosed with COVID-19 as of March 14 , 2020 , by country",Strongly agree
+c10,"Most popular publishers on Instagram as of January 2018 , by user engagement (in million interactions)",Number of combined likes and comments in millions
+c11,Washington Football Team all-time leaders number of touchdowns scored from 1932 to 2020,Touchdowns scored
+c12,Monthly import value of furniture and fixtures in Canada from January 2014 to March 2020 (in million Canadian dollars),2019
+c13,"Coal production from deep and surface mining in the United Kingdom (UK) from 1970 to 2019 (in 1,000 metric tons)",Surface mining
+c14,"Iran 's crude oil exports between January and September 2011 , by destination country (in 1,000 barrels per day)",Exports in thousand barrels per day
+c15,"Share of population aged 65 years and older in Finland in 2019 , by region",Share of inhabitants
+c16,Share of consumers who paid for online news content in selected countries worldwide the last year as of February 2020,Share of respondents
+c17,Which is your favorite Disney princess ?,Share of respondents
+c18,Average prices for soybean oil worldwide from 2014 to 2025 (in nominal U.S. dollars per mt),Price in nominal U.S. dollars per metric ton
+c19,"Leading causes of deaths in the United Kingdom (UK) from 2001 to 2018 , by group",Influenza and pneumonia
+c20,"Value of emergency cash subsidy for every low-income families due to the coronavirus COVID-19 in the Philippines in 2020 , by region (in Philippine pesos)",Cash subsidy in Philippine pesos
+c21,"Percentage of income held by the richest 20 % of the population in Latin America in 2018 , by country",Share of income held by richest 20%
+c22,"Ratio of investment funds assets under management in Europe to the country 's GDP at the end of 2018 , by country",Ratio of asset value to GDP value
+c23,"Digital transformation in enterprise environment worldwide : technology adoption strategy , as of 2017",Addition (not replacing existing technology)
+c24,"Number of ornamental birds in the European Union in 2019 , by country (in 1000s)",Number of ornamental birds in thousands
+c25,"Number of immigrants to Norway in 2019 , by countries of origin",Number of immigrants
+c26,"Population of Polish regions from 2017 to 2019 (in 1,000s)",2019
+c27,Most important challenges for SME in France face as of April 2018,Share of responding businesses
+c28,"Percentage of respondents who have gone into quarantine or self isolation in response to the COVID-19 outbreak worldwide , from March 19 to April 4 , 2020 , by country",Mar 26-28
+c29,"Total number of stores of Luxottica worldwide in 2019 , by brand",Number of stores
+c30,"Channels used to purchase products according to internet users in the United States as of March 2019 , by category",Retail website
+c31,Monthly export value of wheat in Canada from 2014 to 2020 (in million Canadian dollars),2015
+c32,"Leading countries in production of petroleum and other liquids in Latin America and the Caribbean in 2019 (in 1,000 barrels per day)",Production in thousand barrels per day
+c33,"Top 20 generic pharmaceutical companies worldwide in 2015 , by revenue (in million U.S. dollars)",Revenue in million U.S. dollars
+c34,Occupations with the highest differences in mean hourly wage between metropolitan and nonmetropolitan areas in May 2009 (in U.S. dollars),"Mean hourly wage, nonmetropolitan areas"
+c35,"Number of people shot to death by the police in the United States from 2017 to November 2020 , by month",2018
+c36,Which areas of your body are pierced ?,Share of respondents
+c37,Value of major cross-border capital investments into European real estate market in the 12 months prior to 1st quarter of 2016 (in billion euros),Investment in billion euros
+c38,BRIC countries : Inflation rate from 2009 to 2021 (compared to the previous year),Brazil
+c39,Percentage of women in corporate boards worldwide in 2013,Proportion of women
+c40,"Thinking about how you discover , consume and interact with music which of the following do you do at least once a month ?",Share of respondents
+c41,"Leading supplier of steam coal to the United Kingdom (UK) from 2002 to 2019 (in 1,000 metric tons)",USA
+c42,"Construction costs of buildings in Alberta , Canada in 2019 , by select building type (in Canadian dollars per square meter)",Maximum
+c43,"Educational attainment of religious groups in the United States in 2017 , by faith tradition",High school grad or less
+c44,"Share of adult population taking part in free time activities in England in 2017/18 , by type",Share of respondents
+c45,Houston Texans all-time receiving leaders from 2002 to 2020 (in yards),Receiving yards
+c46,"Motorcycle theft recovery rates in the United States in 2019 , by make",Rate of theft recoveries
+c47,"Percentage of coronavirus (COVID-19) deaths compared to population among Asian Americans in select U.S. states as of June 23 , 2020",Percentage of population
+c48,Average price of diesel fuel in France between January 2013 and December 2018 (in euros per liter),2016
+c49,Average prices for maize worldwide from 2014 to 2025 (in nominal U.S. dollars per mt),Price in nominal U.S. dollars per metric ton
+c50,Refinery gold production in the United States from 2008 to 2019 (in metric tons),Secondary (new and old scrap)

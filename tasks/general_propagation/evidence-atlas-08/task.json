@@ -1,0 +1,29 @@
+{
+  "id": "evidence-atlas-08",
+  "probe": "TYPED",
+  "arm": "evidence",
+  "turns": [
+    "Read README.md and briefly identify the workspace's sources of record and its consistency requirement. Do not edit files yet.",
+    "Locate the review criterion, its current truth record, and the decision that depends on it. Briefly report their current values; do not edit files yet.",
+    "Before the handoff, confirm which records are authoritative and which are derived. Do not edit files yet.",
+    "The figures behind \"Population of Finland in 2019 , by region\" were revised: The Uusimaa entry was double-counted and has been withdrawn from the series entirely. Apply this authoritative correction and reconcile every derived record in the workspace. Policies that were not revised must remain unchanged."
+  ],
+  "typed": {
+    "seed": 8,
+    "transition": "evidence",
+    "criterion_id": "chart-c03-review",
+    "source_rel": "data/c03/values.csv",
+    "source_post_sha256": "7775d82bb650b89e8dcc0997fa5d1d03dbb308f92f32fd2f49faeee154b3ed8a",
+    "old_threshold": 6.14311,
+    "new_threshold": 6.14311,
+    "pre_ratio": 9.364211,
+    "post_ratio": 2.922009,
+    "expected_criterion_satisfied": false,
+    "expected_review_required": false,
+    "affected_fields": [
+      "analysis/criterion-status.json#criterion_satisfied",
+      "decisions/review-queue.json#review_required"
+    ],
+    "preservation_field": "policy/review-policy.json#minimum_leader_to_median_multiple"
+  }
+}

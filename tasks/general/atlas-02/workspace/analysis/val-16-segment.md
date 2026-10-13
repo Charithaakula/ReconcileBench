@@ -1,0 +1,5 @@
+<!-- source: Value of India 's chemical imports in financial year 2019 , by type (in billion Indian rupees) -->
+
+# Segment note
+
+The leader outsells the runner-up by roughly **89%**.

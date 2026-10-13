@@ -1,0 +1,11 @@
+{
+  "active_evidence_ids": [
+    "E2"
+  ],
+  "ranked_candidates": [
+    "AHRR"
+  ],
+  "support_join": [
+    "E2:CBD_IC50_Serum_starvation_16h_vs_Cisplatin_IC50_Serum_starvation_16h"
+  ]
+}

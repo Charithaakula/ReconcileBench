@@ -1,0 +1,10 @@
+{
+  "criterion_id": "chart-c17-review",
+  "criterion_satisfied": true,
+  "depends_on": [
+    "target_chart_values",
+    "review-policy.json"
+  ],
+  "observed_leader_to_median_multiple": 60.358498,
+  "record_type": "derived_criterion_truth"
+}

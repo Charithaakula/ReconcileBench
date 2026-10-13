@@ -1,0 +1,21 @@
+<!-- source: Top responding genes, Cisplatin IC50 versus Serum starvation -->
+# Entries by value, highest first
+
+1. CPA4
+2. ENSG00000002079
+3. GALNT5
+4. LVRN
+5. LRP2BP
+6. LINC00640
+7. SLC2A3
+8. HLA-V
+9. LINC02882
+10. IGFBP3
+11. ENSG00000265150
+12. PDE2A
+13. NRG1
+14. RNA5SP202
+15. MAGEB17-AS1
+16. ENSG00000258486
+17. HLA-K
+18. CDKN1A

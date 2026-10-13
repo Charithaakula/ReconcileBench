@@ -1,0 +1,5 @@
+<!-- source: Gross domestic product (GDP) in Italy in 2018 , by region (in million euros) -->
+
+# Editorial note
+
+Lombardy **dominates** the picture here — only a **handful** of entries come anywhere close.

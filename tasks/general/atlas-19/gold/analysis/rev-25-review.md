@@ -1,0 +1,2 @@
+<!-- source: Revenue of top healthcare management consulting firms in the United States in 2013 (in million U.S. dollars) -->
+The majority of the healthcare management consulting firms represented on the chart had a revenue of under 500 million dollars in 2013. Three firms had a revenue between 500 and 1000 million dollars. Deloitte Consulting (New York) had a revenue of close to 2000 million dollars, meaning its revenue was almost 1000 million greater than any other firm.

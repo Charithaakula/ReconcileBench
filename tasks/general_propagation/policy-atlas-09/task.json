@@ -1,0 +1,29 @@
+{
+  "id": "policy-atlas-09",
+  "probe": "TYPED",
+  "arm": "policy",
+  "turns": [
+    "Read README.md and briefly identify the workspace's sources of record and its consistency requirement. Do not edit files yet.",
+    "Locate the review criterion, its current truth record, and the decision that depends on it. Briefly report their current values; do not edit files yet.",
+    "Before the handoff, confirm which records are authoritative and which are derived. Do not edit files yet.",
+    "The authoritative review policy has been revised: criterion chart-c42-review now requires a leader-to-median multiple of 19.0, replacing 15.0. The underlying chart data have not changed. Reconcile the workspace so every current derived record and decision is consistent with this revision, while preserving evidence and history that remain valid."
+  ],
+  "typed": {
+    "seed": 9,
+    "transition": "policy",
+    "criterion_id": "chart-c42-review",
+    "source_rel": "data/c42/values.csv",
+    "source_post_sha256": "05233826adc05007513491df231a54fb04d885456a0e19c2c2475cd54f7b8ec0",
+    "old_threshold": 15.0,
+    "new_threshold": 19.0,
+    "pre_ratio": 16.33366,
+    "post_ratio": 16.33366,
+    "expected_criterion_satisfied": false,
+    "expected_review_required": false,
+    "affected_fields": [
+      "analysis/criterion-status.json#criterion_satisfied",
+      "decisions/review-queue.json#review_required"
+    ],
+    "preservation_field": "analysis/criterion-status.json#observed_leader_to_median_multiple"
+  }
+}

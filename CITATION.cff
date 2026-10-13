@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use ReconcileBench, please cite the paper."
+title: "ReconcileBench: Benchmarking State Reconciliation in Persistent Scientific Agents"
+authors:
+  - family-names: Akula
+    given-names: Sai Charitha
+  - family-names: Gujjula
+    given-names: Chanukya Vardhan
+license: MIT
+repository-code: "https://github.com/Charithaakula/ReconcileBench"
+preferred-citation:
+  type: conference-paper
+  title: "ReconcileBench: Benchmarking State Reconciliation in Persistent Scientific Agents"
+  authors:
+    - family-names: Akula
+      given-names: Sai Charitha
+    - family-names: Gujjula
+      given-names: Chanukya Vardhan
+  collection-title: "NeurIPS 2026 Workshop on Agentic AI for Biological Discovery"
+  year: 2026
+  url: "https://openreview.net/forum?id=4xdgvEUHI3"

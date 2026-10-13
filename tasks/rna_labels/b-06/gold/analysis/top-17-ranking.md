@@ -1,0 +1,21 @@
+<!-- source: Top responding genes, Cisplatin IC50 versus Untreated -->
+# Entries by value, highest first
+
+1. ENSG00000258486
+2. ENSG00000265150
+3. ENSG00000251095
+4. SULF2
+5. INKA2
+6. ABCA12
+7. INPP5D
+8. CDKN1A
+9. MUC19
+10. TIGAR
+11. TERC
+12. PTCHD4
+13. SNORD3A
+14. GRIN2C
+15. RNA5-8SP6
+16. ACTA2
+17. HES2
+18. TP53INP1

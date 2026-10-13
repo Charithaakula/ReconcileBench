@@ -1,0 +1,2 @@
+<!-- source: Number of hate crimes recorded by the police in Italy in 2019 , by type -->
+In 2019 in Italy over 300 cases of incitement to violence were recorded by police. Arson and homocide as a hate crime had the lowest recordings in the chart. 150 hate crimes incidences of desecration of graves were recorded in 2019. Following incitement to violence, physical violence was the next most recorded form of hate crime by police in Italy in 2019.

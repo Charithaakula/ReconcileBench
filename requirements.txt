@@ -1,0 +1,10 @@
+# Generators, graders, prose judge and the mini-SWE-agent runner (Python 3.13).
+# harness/requirements.lock.txt pins the runner's full dependency tree.
+mini-swe-agent @ git+https://github.com/SWE-agent/mini-swe-agent.git@04d809ceab9df28f9adaed044884180159172930
+litellm==1.100.0
+pyyaml==6.0.3
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.10.7   # renders the shipped PNG figures byte for byte
+pillow==11.3.0
+resvg-py==0.5.0      # rasterises model-written SVG in the viz_vector check

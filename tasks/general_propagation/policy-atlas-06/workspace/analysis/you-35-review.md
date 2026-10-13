@@ -1,0 +1,2 @@
+<!-- source: In your opinion , which of the following characteristics apply to users of dating websites and apps ? -->
+Of the many characteristics looked at, dominance had the least share of respondents at well below 0.1. The most common was open-mindedness at almost 0.4. Confidence and optimism were in equal second place at 0.29. Passive was second last at 0.09. The range was approximately 0.08 to 0.39. 19 characteristics were included.

@@ -1,0 +1,29 @@
+{
+  "id": "evidence-atlas-10",
+  "probe": "TYPED",
+  "arm": "evidence",
+  "turns": [
+    "Read README.md and briefly identify the workspace's sources of record and its consistency requirement. Do not edit files yet.",
+    "Locate the review criterion, its current truth record, and the decision that depends on it. Briefly report their current values; do not edit files yet.",
+    "Before the handoff, confirm which records are authoritative and which are derived. Do not edit files yet.",
+    "The figures behind \"Gross domestic product (GDP) in Italy in 2018 , by region (i\" were revised: Lombardy was misreported as 390331.2 and the correct value is 45098.2. Apply this authoritative correction and reconcile every derived record in the workspace. Policies that were not revised must remain unchanged."
+  ],
+  "typed": {
+    "seed": 10,
+    "transition": "evidence",
+    "criterion_id": "chart-c10-review",
+    "source_rel": "data/c10/values.csv",
+    "source_post_sha256": "96782fc2f98f3e31cad545f17960e0d0d76fb412f3376cbfbb9fe2570c8304f2",
+    "old_threshold": 6.480297,
+    "new_threshold": 6.480297,
+    "pre_ratio": 8.57588,
+    "post_ratio": 4.384714,
+    "expected_criterion_satisfied": false,
+    "expected_review_required": false,
+    "affected_fields": [
+      "analysis/criterion-status.json#criterion_satisfied",
+      "decisions/review-queue.json#review_required"
+    ],
+    "preservation_field": "policy/review-policy.json#minimum_leader_to_median_multiple"
+  }
+}

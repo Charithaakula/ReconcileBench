@@ -1,0 +1,12 @@
+{
+  "active_evidence_ids": [
+    "sample-6-3",
+    "Cisplatin_IC50_vs_Untreated"
+  ],
+  "ranked_candidates": [
+    "NR4A3",
+    "AHRR",
+    "CYP1A1"
+  ],
+  "validation_target": "NR4A3"
+}

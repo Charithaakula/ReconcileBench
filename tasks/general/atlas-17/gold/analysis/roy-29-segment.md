@@ -1,0 +1,5 @@
+<!-- source: Number of Royal Canadian Mounted Police officers in Canada in 2019 , by level of policing and province -->
+
+# Segment note
+
+The leader outsells the runner-up by roughly **97%**.

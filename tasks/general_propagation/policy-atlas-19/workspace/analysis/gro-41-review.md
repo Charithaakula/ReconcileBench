@@ -1,0 +1,2 @@
+<!-- source: Gross domestic expenditure on research and development (GERD) as a percentage of GDP in Italy from 2000 to 2017 -->
+The is a general increase in the gross domestic expenditure on GERD as a percentage of GDP in Italy between the years 2000-2017. The peak in the gross domestic expenditure on GERD as a percentage of GDP in Italy during the year 2014, however there is a decline in 2015 and 2017.

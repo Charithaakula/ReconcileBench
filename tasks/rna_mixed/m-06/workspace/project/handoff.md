@@ -1,0 +1,4 @@
+Validation target: NR4A3
+
+AHRR: RUN_VALIDATION
+CYP1A1: HOLD

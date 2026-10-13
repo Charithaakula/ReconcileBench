@@ -1,0 +1,2 @@
+<!-- source: Percentage of respondents worldwide who agree with the idea of self-quarantine if diagnosed with COVID-19 as of March 14 , 2020 , by country -->
+It is evident that Italy agree the most with the idea of self quarantine to isolate from Covid, with their percentage being over 80%. Japan falls the lowest with just over 40% of people agreeing with the quarantine. It appears that all European counties reach over 50% or higher agreement that people should self isolate when contracting covid-19.

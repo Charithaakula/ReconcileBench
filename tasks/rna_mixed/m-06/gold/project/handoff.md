@@ -1,0 +1,4 @@
+Validation target: ENSG00000258486
+
+AHRR: HOLD
+CYP1A1: HOLD

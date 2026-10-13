@@ -1,0 +1,2 @@
+<!-- source: Average price of used cars in Italy as of 2017 , by region (in euros) -->
+Except for five regions most averge prices in Euros for the Italian regions are very similar and all those, excepting the five, are all very close  - between 10000 and 11000. The lowest average is Calbria at just 10000 Euros. The highest average is for Veneto at approximately 14500 Euros - the other four top regions are all within 1500 Euros of this average.

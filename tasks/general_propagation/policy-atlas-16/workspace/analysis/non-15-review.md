@@ -1,0 +1,2 @@
+<!-- source: Number of non-EU citizens working in Italy in 2019 , by sector -->
+By far the most non-EU citizens working in Italy seems to be employed in 'other services'. Industries and factories follows with over 300,000 non-EU citizens working in Italy. The smallest number of individuals seems to be employed in finance and insurance; information and communication; and PA, defense, mandatory social insurance.

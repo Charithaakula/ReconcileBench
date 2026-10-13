@@ -1,0 +1,21 @@
+{
+  "active_support_rule": "status is CURRENT and numerical qualifies is true",
+  "contrast_target_rule": "after a sample-label correction, the current top-ranked gene with fold change at least 2.0 has current finding SUPPORTED, is the validation target, and licenses RUN_VALIDATION",
+  "decision_rule": {
+    "NOT_ESTABLISHED": "HOLD",
+    "SUPPORTED": "RUN_VALIDATION"
+  },
+  "effective_version": "P0",
+  "evidence_status_vocabulary": {
+    "CURRENT": "eligible to contribute active support",
+    "WITHDRAWN_QC": "withdrawn after quality-control failure; ineligible for active support"
+  },
+  "history_rule": "dated decisions retain the policy effective when made",
+  "independence_rule": "condition-specific sample sets must be disjoint",
+  "minimum_supports": 1,
+  "qualification": {
+    "maximum_rank": 10,
+    "meaning": "numerical qualification of the contrast result; independent of current/withdrawn status",
+    "minimum_fold_change": 2.0
+  }
+}

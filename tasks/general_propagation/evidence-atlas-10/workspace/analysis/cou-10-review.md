@@ -1,0 +1,2 @@
+<!-- source: Leading countries in crude oil production in Latin America and the Caribbean in 2019 (in 1,000 barrels per day) -->
+Brazil is the leading country in crude oil production in Latin America and the Caribbean in 2019.

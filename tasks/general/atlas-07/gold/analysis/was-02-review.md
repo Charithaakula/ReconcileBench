@@ -1,0 +1,2 @@
+<!-- source: Washington Football Team all-time leaders number of touchdowns scored from 1932 to 2020 -->
+Charley Taylor has scored the most touchdowns for the Washington Football team, from 1932-2020. He had over 80 touchdowns, with the second place touchdown getter, John Riggins, also having over 80 touchdowns. No other player for the Washington Football team had over 80 touchdowns. In third place was Art Monk, who had just over 60 touchdowns.

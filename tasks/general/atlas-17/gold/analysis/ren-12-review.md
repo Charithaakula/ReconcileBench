@@ -1,0 +1,2 @@
+<!-- source: Rental prices of prime logistic properties in selected European cities as of 4th quarter 2019 (in euros per square meter per year) -->
+The countries on the x-axis are in alphabetical order. Zurich is the most expensive place to rent on the list of countries. Bucharest is the cheapest place to rent on the list of countries. Zurich is over four times more expensive to rent than Bucharest. A majority of the countries listed are under 100 euros per square meter per annum. Only four countries are above 100 euros per square meter per annum.

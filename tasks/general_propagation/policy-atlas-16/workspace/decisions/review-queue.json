@@ -1,0 +1,9 @@
+{
+  "decision_id": "review_queue",
+  "depends_on": [
+    "criterion-status.json#criterion_satisfied"
+  ],
+  "licensed_by": "chart-c14-review",
+  "record_type": "derived_review_decision",
+  "review_required": true
+}

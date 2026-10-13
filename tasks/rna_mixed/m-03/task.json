@@ -1,0 +1,135 @@
+{
+  "arm": "evidence_withdrawal",
+  "event": "Evidence E1 is withdrawn after QC failure for CYP1A1; E2 is unchanged.",
+  "fields": [
+    {
+      "file": "sources/evidence-status.json",
+      "id": "source_transition",
+      "operation": "change",
+      "post": "WITHDRAWN_QC",
+      "pre": "CURRENT",
+      "role": "direct",
+      "selector": "/records/0/status"
+    },
+    {
+      "file": "analysis/current-computation.json",
+      "id": "active_support_count",
+      "operation": "change",
+      "post": 0,
+      "pre": 1,
+      "role": "C1",
+      "selector": "/active_support_count"
+    },
+    {
+      "file": "analysis/current-computation.json",
+      "id": "e1_qualification",
+      "operation": "preserve",
+      "post": true,
+      "pre": true,
+      "role": "C1",
+      "selector": "/e1_qualifies"
+    },
+    {
+      "file": "analysis/current-computation.json",
+      "id": "e2_qualification",
+      "operation": "preserve",
+      "post": false,
+      "pre": false,
+      "role": "C1",
+      "selector": "/e2_qualifies"
+    },
+    {
+      "file": "results/current-relations.json",
+      "id": "active_evidence_ids",
+      "operation": "change",
+      "post": [],
+      "pre": [
+        "E1"
+      ],
+      "role": "C2",
+      "selector": "/active_evidence_ids"
+    },
+    {
+      "file": "results/current-relations.json",
+      "id": "support_join",
+      "operation": "change",
+      "post": [],
+      "pre": [
+        "E1:CBD_IC50_vs_Cisplatin_IC50"
+      ],
+      "role": "C2",
+      "selector": "/support_join"
+    },
+    {
+      "file": "figures/candidate-summary.svg",
+      "id": "candidate_figure",
+      "operation": "change",
+      "post": "7758338d355f86d7f700284b06395c7730e2033052d944db89ddfc57c31c0576",
+      "pre": "2fbf81ffda45fd405de21d15d65a82bd07aed9637089c33bfcd4f7c97149b6c4",
+      "role": "C2",
+      "selector": "sha256"
+    },
+    {
+      "file": "findings/current-finding.json",
+      "id": "current_finding",
+      "operation": "change",
+      "post": {
+        "candidate": "CYP1A1",
+        "status": "NOT_ESTABLISHED"
+      },
+      "pre": {
+        "candidate": "CYP1A1",
+        "status": "SUPPORTED"
+      },
+      "role": "C3",
+      "selector": "/"
+    },
+    {
+      "file": "decisions/validation-queue.json",
+      "id": "licensed_action",
+      "operation": "change",
+      "post": {
+        "candidate": "CYP1A1",
+        "operation": "HOLD"
+      },
+      "pre": {
+        "candidate": "CYP1A1",
+        "operation": "RUN_VALIDATION"
+      },
+      "role": "C3",
+      "selector": "/"
+    },
+    {
+      "file": "archive/dated-decision.json",
+      "id": "dated_finding",
+      "operation": "preserve",
+      "post": "SUPPORTED",
+      "pre": "SUPPORTED",
+      "role": "protected",
+      "selector": "/finding"
+    },
+    {
+      "file": "archive/dated-decision.json",
+      "id": "dated_action",
+      "operation": "preserve",
+      "post": "RUN_VALIDATION",
+      "pre": "RUN_VALIDATION",
+      "role": "protected",
+      "selector": "/action"
+    },
+    {
+      "file": "controls/unaffected-reference.json",
+      "id": "unaffected_control",
+      "operation": "preserve",
+      "post": "REFERENCE_CONTROL",
+      "pre": "REFERENCE_CONTROL",
+      "role": "protected",
+      "selector": "/status"
+    }
+  ],
+  "id": "m-03",
+  "probe": "RNA_MIXED",
+  "turns": [
+    "Evidence E1 is withdrawn after QC failure for CYP1A1; E2 is unchanged.\n\nReconcile the complete current workspace. Preserve dated history and unrelated controls. Do not create new files.\n"
+  ]
+}

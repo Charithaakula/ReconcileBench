@@ -1,0 +1,2 @@
+<!-- source: Thinking about how you discover , consume and interact with music which of the following do you do at least once a month ? -->
+Listen to the radio is the highest share of respondents at 0.7. Watch music videos (eg Youtube) and buy CDs online (eg Amazon) are the second highest at just under 0.4 share of respondents. The lowest responses are pay for a music subscription and I pay to use a music locker, both with well under a 0.1 share of respondents.

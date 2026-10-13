@@ -1,0 +1,2 @@
+<!-- source: Leading pharmaceutical companies in Denmark in 2018 , by revenue (in billion DKK) -->
+Novo Nordisk are the massive runaway top of this chart and they represent more than all the other companies added together. H Lundbeck is second but at a 18% as oppose to over 120% the distance is vast and the gap is not recoverable. Leo Pharma and Orifam group chart with 10% and 18% respectively while all other companies fail to score mare than 5%.

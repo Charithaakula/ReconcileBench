@@ -1,0 +1,29 @@
+{
+  "id": "evidence-atlas-20",
+  "probe": "TYPED",
+  "arm": "evidence",
+  "turns": [
+    "Read README.md and briefly identify the workspace's sources of record and its consistency requirement. Do not edit files yet.",
+    "Locate the review criterion, its current truth record, and the decision that depends on it. Briefly report their current values; do not edit files yet.",
+    "Before the handoff, confirm which records are authoritative and which are derived. Do not edit files yet.",
+    "The figures behind \"Top 20 generic pharmaceutical companies worldwide in 2015 , \" were revised: The Pfizer Established Pharma entry was double-counted and has been withdrawn from the series entirely. Apply this authoritative correction and reconcile every derived record in the workspace. Policies that were not revised must remain unchanged."
+  ],
+  "typed": {
+    "seed": 20,
+    "transition": "evidence",
+    "criterion_id": "chart-c33-review",
+    "source_rel": "data/c33/values.csv",
+    "source_post_sha256": "5bdd7478447f424902eec032657592bf604f0521e697e0ecc071de1a588677f2",
+    "old_threshold": 5.135764,
+    "new_threshold": 5.135764,
+    "pre_ratio": 7.122072,
+    "post_ratio": 3.149456,
+    "expected_criterion_satisfied": false,
+    "expected_review_required": false,
+    "affected_fields": [
+      "analysis/criterion-status.json#criterion_satisfied",
+      "decisions/review-queue.json#review_required"
+    ],
+    "preservation_field": "policy/review-policy.json#minimum_leader_to_median_multiple"
+  }
+}

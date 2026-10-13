@@ -1,0 +1,16 @@
+{
+  "AHRR": {
+    "action": "HOLD",
+    "active_evidence_ids": [
+      "E2"
+    ],
+    "active_support_count": 1,
+    "status": "NOT_ESTABLISHED"
+  },
+  "CYP1A1": {
+    "action": "HOLD",
+    "active_evidence_ids": [],
+    "active_support_count": 0,
+    "status": "NOT_ESTABLISHED"
+  }
+}

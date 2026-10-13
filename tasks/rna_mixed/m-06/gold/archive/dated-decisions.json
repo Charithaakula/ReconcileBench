@@ -1,0 +1,14 @@
+{
+  "AHRR": {
+    "action": "RUN_VALIDATION",
+    "dated": "2026-08-15",
+    "finding": "SUPPORTED",
+    "policy_version": "P0"
+  },
+  "CYP1A1": {
+    "action": "RUN_VALIDATION",
+    "dated": "2026-08-15",
+    "finding": "SUPPORTED",
+    "policy_version": "P0"
+  }
+}

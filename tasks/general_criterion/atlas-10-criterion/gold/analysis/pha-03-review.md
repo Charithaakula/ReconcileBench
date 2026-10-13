@@ -1,0 +1,2 @@
+<!-- source: Share of pharmaceutical revenue worldwide in 2017 , by country -->
+The United States has the highest share of pharmaceutical revenue at 33% followed by Western Europe with 22%. Combined, these two have over half the share. All other countries have less than 10% - in order China, Japan, Latin America, Rest of World, Russia, South Korea, Canada, Australia, Indonesia, India, Saudi Arabia.

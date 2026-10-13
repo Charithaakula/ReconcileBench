@@ -1,0 +1,2 @@
+<!-- source: Value of emergency cash subsidy for every low-income families due to the coronavirus COVID-19 in the Philippines in 2020 , by region (in Philippine pesos) -->
+The largest cash subsidy was to NCR and was to the value of 8000 pesos. The lowest cash subsidy was to ARM, CARAGA and Regions 12, 4B, 5, 8 and 9 which all received 5000 philippine pesos. All regions received a cash subsidy of at least 5000 philippine pesos.

@@ -1,0 +1,2 @@
+<!-- source: Construction costs of buildings in Ontario , Canada in 2019 , by select building type (in Canadian dollars per square meter) -->
+Almost 6000 was spent on health care - ambulatory care. This was the building with the highest amount spent. Health care - residential and high rise - residential had expenditures of around 3000. All the other buildings were less than 3000, with warehouse being the lowest at just over 1000.

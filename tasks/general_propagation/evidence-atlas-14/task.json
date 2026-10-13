@@ -1,0 +1,29 @@
+{
+  "id": "evidence-atlas-14",
+  "probe": "TYPED",
+  "arm": "evidence",
+  "turns": [
+    "Read README.md and briefly identify the workspace's sources of record and its consistency requirement. Do not edit files yet.",
+    "Locate the review criterion, its current truth record, and the decision that depends on it. Briefly report their current values; do not edit files yet.",
+    "Before the handoff, confirm which records are authoritative and which are derived. Do not edit files yet.",
+    "The figures behind \"Cost of an angioplasty in selected countries as of 2019 (in \" were revised: The United States entry was double-counted and has been withdrawn from the series entirely. Apply this authoritative correction and reconcile every derived record in the workspace. Policies that were not revised must remain unchanged."
+  ],
+  "typed": {
+    "seed": 14,
+    "transition": "evidence",
+    "criterion_id": "chart-c24-review",
+    "source_rel": "data/c24/values.csv",
+    "source_post_sha256": "f608f345798bdf01f549cd1fa1878424c3d4dc107a89122acf131dab17c3895d",
+    "old_threshold": 3.126479,
+    "new_threshold": 3.126479,
+    "pre_ratio": 3.76,
+    "post_ratio": 2.492958,
+    "expected_criterion_satisfied": false,
+    "expected_review_required": false,
+    "affected_fields": [
+      "analysis/criterion-status.json#criterion_satisfied",
+      "decisions/review-queue.json#review_required"
+    ],
+    "preservation_field": "policy/review-policy.json#minimum_leader_to_median_multiple"
+  }
+}

@@ -1,0 +1,21 @@
+id,title,unit
+c01,"Top responding genes, Cisplatin IC50 CBD IC50 versus DMSO",fold change vs DMSO
+c02,"Top responding genes, CBD IC50 versus CBD IC50 Serum starvation 16h",fold change vs CBD IC50 Serum starvation 16h
+c03,"Top responding genes, Cisplatin IC50 versus Untreated",fold change vs Untreated
+c04,"Top responding genes, DMSO versus Serum starvation",fold change vs Serum starvation
+c05,"Top responding genes, Cisplatin IC50 CBD IC50 Serum starvation 16h versus DMSO",fold change vs DMSO
+c06,"Top responding genes, CBD IC50 versus Untreated",fold change vs Untreated
+c07,"Top responding genes, CBD IC50 versus Serum starvation",fold change vs Serum starvation
+c08,"Top responding genes, CBD IC50 Serum starvation 16h versus Cisplatin IC50 CBD IC50",fold change vs Cisplatin IC50 CBD IC50
+c09,"Top responding genes, CBD IC50 Serum starvation 16h versus DMSO Serum starvation",fold change vs DMSO Serum starvation
+c10,"Top responding genes, DMSO versus DMSO Serum starvation",fold change vs DMSO Serum starvation
+c11,"Top responding genes, Cisplatin IC50 CBD IC50 Serum starvation 16h versus Serum starvation",fold change vs Serum starvation
+c12,"Top responding genes, CBD IC50 versus DMSO Serum starvation",fold change vs DMSO Serum starvation
+c13,"Top responding genes, CBD IC50 versus Cisplatin IC50 CBD IC50 Serum starvation 16h",fold change vs Cisplatin IC50 CBD IC50 Serum starvation 16h
+c14,"Top responding genes, Cisplatin IC50 CBD IC50 Serum starvation 16h versus Untreated",fold change vs Untreated
+c15,"Top responding genes, CBD IC50 versus DMSO",fold change vs DMSO
+c16,"Top responding genes, Cisplatin IC50 CBD IC50 versus Untreated",fold change vs Untreated
+c17,"Top responding genes, CBD IC50 Serum starvation 16h versus Serum starvation",fold change vs Serum starvation
+c18,"Top responding genes, Cisplatin IC50 CBD IC50 Serum starvation 16h versus DMSO Serum starvation",fold change vs DMSO Serum starvation
+c19,"Top responding genes, CBD IC50 Serum starvation 16h versus DMSO",fold change vs DMSO
+c20,"Top responding genes, DMSO Serum starvation versus Serum starvation",fold change vs Serum starvation

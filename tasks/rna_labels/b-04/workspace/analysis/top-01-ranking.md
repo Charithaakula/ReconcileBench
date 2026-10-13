@@ -1,0 +1,21 @@
+<!-- source: Top responding genes, Cisplatin IC50 versus Cisplatin IC50 CBD IC50 -->
+# Entries by value, highest first
+
+1. FOSB
+2. SUSD2
+3. FOS
+4. ENSG00000265150
+5. ARRDC4
+6. ANKRD37
+7. ENSG00000258486
+8. OSR2
+9. IGFBP3
+10. ARID5B
+11. LRP2BP
+12. RNA5-8SP6
+13. SNORD3A
+14. RN7SL4P
+15. RAPGEF4
+16. SAP30-DT
+17. PFKFB4
+18. RIMKLA

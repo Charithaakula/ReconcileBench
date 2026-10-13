@@ -1,0 +1,13 @@
+# GPT-5.6-SOL for the retraction episodes (tasks/general_retraction), which span up to
+# 18 turns: the 60-step episode budget of gpt-5.6-sol.yaml is raised to 400 steps (paper,
+# Section 3), and everything else is the same. The file used for the paper's runs was not
+# kept; this one restates the configuration the paper describes, with the same cost cap as
+# the Claude retraction configs.
+agent:
+  step_limit: 400
+  cost_limit: 5.0
+model:
+  model_name: openai/gpt-5.6-sol
+  model_kwargs:
+    reasoning:
+      effort: low

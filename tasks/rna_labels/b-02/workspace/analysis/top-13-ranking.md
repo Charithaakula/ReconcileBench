@@ -1,0 +1,21 @@
+<!-- source: Top responding genes, CBD IC50 versus Untreated -->
+# Entries by value, highest first
+
+1. AHRR
+2. CYP1A1
+3. CYP1B1
+4. ALDH1A3
+5. GDA
+6. SMAD7
+7. ENSG00000240875
+8. ADGRF1
+9. ENSG00000235523
+10. TIPARP
+11. AJUBA
+12. CPA4
+13. FGF9
+14. HAS3
+15. ENSG00000272482
+16. GPAT3
+17. ENSG00000250645
+18. ZBED2

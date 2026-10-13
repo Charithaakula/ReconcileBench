@@ -1,0 +1,29 @@
+{
+  "id": "evidence-atlas-07",
+  "probe": "TYPED",
+  "arm": "evidence",
+  "turns": [
+    "Read README.md and briefly identify the workspace's sources of record and its consistency requirement. Do not edit files yet.",
+    "Locate the review criterion, its current truth record, and the decision that depends on it. Briefly report their current values; do not edit files yet.",
+    "Before the handoff, confirm which records are authoritative and which are derived. Do not edit files yet.",
+    "The figures behind \"Average in-store merchandise sales of convenience stores in \" were revised: Cigarettes was misreported as 433822 and the correct value is 34569. Apply this authoritative correction and reconcile every derived record in the workspace. Policies that were not revised must remain unchanged."
+  ],
+  "typed": {
+    "seed": 7,
+    "transition": "evidence",
+    "criterion_id": "chart-c47-review",
+    "source_rel": "data/c47/values.csv",
+    "source_post_sha256": "a665f323f723a4b6c5f0eb3160124a85c913f2d7db857c8b3418bb6d9432bc02",
+    "old_threshold": 11.528294,
+    "new_threshold": 11.528294,
+    "pre_ratio": 16.33366,
+    "post_ratio": 6.722929,
+    "expected_criterion_satisfied": false,
+    "expected_review_required": false,
+    "affected_fields": [
+      "analysis/criterion-status.json#criterion_satisfied",
+      "decisions/review-queue.json#review_required"
+    ],
+    "preservation_field": "policy/review-policy.json#minimum_leader_to_median_multiple"
+  }
+}

@@ -1,0 +1,31 @@
+# Claude Opus 5 at low effort. A complete config, used as is rather than merged over
+# harness/config.yaml.
+agent:
+  agent_class: interactive
+  mode: yolo
+  confirm_exit: true
+  step_limit: 60
+  cost_limit: 2.5
+  wall_time_limit_seconds: 3600
+environment:
+  environment_class: docker
+  image: python:3.13-slim@sha256:9d2e5553305c7c7b0097999bb17187c69b921ccd6bc9d40e4bb5ebe652c00285
+  cwd: /workspace
+  interpreter:
+  - bash
+  - -c
+  timeout: 30
+  container_timeout: 2h
+  forward_env: []
+  run_args:
+  - --rm
+  - --network=none
+model:
+  model_class: litellm
+  model_name: anthropic/claude-opus-5
+  litellm_model_registry: harness/models/litellm_registry.json   # relative to the repository root
+  set_cache_control: default_end
+  model_kwargs:
+    max_tokens: 4096
+    output_config:
+      effort: low

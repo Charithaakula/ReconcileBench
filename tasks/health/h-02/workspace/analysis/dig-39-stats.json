@@ -1,0 +1,8 @@
+{
+ "n": 13,
+ "leader": "IoT devices",
+ "mean": 0.4,
+ "above_mean": 6,
+ "share_pct": 46,
+ "verdict": "MINORITY"
+}

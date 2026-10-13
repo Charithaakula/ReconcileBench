@@ -1,0 +1,2 @@
+<!-- source: Percentage of respondents who have gone into quarantine or self isolation in response to the COVID-19 outbreak worldwide , from March 19 to April 4 , 2020 , by country -->
+China has the highest percentage of respondents who have gone into quarantine or self isolation in response to the COVID-19 outbreak peaking at 0.8. Japan has the lowest percentage of respondents who have gone into quarantine or self isolation in response to the COVID-19 outbreak.

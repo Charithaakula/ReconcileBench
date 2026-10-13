@@ -1,0 +1,2 @@
+<!-- source: Novartis AG 's net income from 2007 to 2019 (in billion U.S. dollars) -->
+Novartis have consistently achieved incomes in excess of 5 billion dollars each year from 2007 - 2019The most successful and exceptional year was 2015 when they achieved 20 billion in US dollars. The following year, profits dropped dramatically to around 7 billion when they began to rise again. There was steady growth of annual profits from around 6 billion to 10 billion dollars from 2007 to 2010 when it dropped to around 9 billion until 2014.

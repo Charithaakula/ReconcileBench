@@ -1,0 +1,2 @@
+<!-- source: Which three of the following countries do you find most attractive as a country whose people can be trusted ? -->
+Canada has the highest share of responses.  The UK is second.  Australia and USA are third.  The countries where people think the least people can be trusted are India and Mexico.  Japan. Italy, France and Germany are also fairly high.  Brazil, Russia and South Korea are also very low.

@@ -1,0 +1,2 @@
+<!-- source: Prices of most affordable one-way tickets of Aeroflot for domestic flights in Russia from end of March to June 2020 , by destination (in Russian rubles) -->
+The most expensive route is Moscow - Irkutsk, which costs around 9,000 rubles. Three other destinations stand out as being noticeably more expensive than the majority: Krasnoyarsk (7,000 rubles), Novosibirsk (5,600 rubles) and Omsk (5,000). Other than the aforementioned routes, all the remaining nine are much cheaper, ranging from 2,200 rubles to 2,600 rubles.

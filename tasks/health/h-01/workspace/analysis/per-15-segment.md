@@ -1,0 +1,5 @@
+<!-- source: Per capita consumption of orange juice in the United States from 2000/2001 to 2018/2019 (in gallons) -->
+
+# Segment note
+
+The leader outsells the runner-up by roughly **2%**.

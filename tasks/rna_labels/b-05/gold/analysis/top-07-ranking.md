@@ -1,0 +1,21 @@
+<!-- source: Top responding genes, CBD IC50 versus Cisplatin IC50 -->
+# Entries by value, highest first
+
+1. AHRR
+2. CYP1A1
+3. ENSG00000272482
+4. FGF9
+5. GDA
+6. GPAT3
+7. ENSG00000204876
+8. CYP1B1
+9. ALDH1A3
+10. ENSG00000240875
+11. NQO1
+12. ADGRF1
+13. DHRS3
+14. TIPARP
+15. CPOX
+16. DLX2
+17. SMAD3
+18. SMAD7

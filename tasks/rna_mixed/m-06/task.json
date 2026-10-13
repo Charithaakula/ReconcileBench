@@ -1,0 +1,198 @@
+{
+  "arm": "compound",
+  "event": "Sample 6-3 is relabelled, evidence E1 is withdrawn for every candidate, and the policy raises the required supports from two to three.",
+  "fields": [
+    {
+      "file": "sources/transitions.json",
+      "id": "sample_group",
+      "operation": "change",
+      "post": "Cisplatin_IC50_Serum_starvation_16h",
+      "pre": "Cisplatin_IC50",
+      "role": "direct",
+      "selector": "/sample/group"
+    },
+    {
+      "file": "sources/transitions.json",
+      "id": "e1_status",
+      "operation": "change",
+      "post": "WITHDRAWN_QC",
+      "pre": "CURRENT",
+      "role": "direct",
+      "selector": "/evidence_status/E1"
+    },
+    {
+      "file": "sources/transitions.json",
+      "id": "minimum_supports",
+      "operation": "change",
+      "post": 3,
+      "pre": 2,
+      "role": "direct",
+      "selector": "/policy/minimum_supports"
+    },
+    {
+      "file": "analysis/sample-contrast.json",
+      "id": "group_membership",
+      "operation": "change",
+      "post": 3,
+      "pre": 4,
+      "role": "C1",
+      "selector": "/corrected_group_members"
+    },
+    {
+      "file": "analysis/sample-contrast.json",
+      "id": "contrast_leader",
+      "operation": "change",
+      "post": "ENSG00000258486",
+      "pre": "NR4A3",
+      "role": "C1",
+      "selector": "/leader_gene"
+    },
+    {
+      "file": "analysis/sample-contrast.json",
+      "id": "contrast_fold_change",
+      "operation": "change",
+      "post": 2.852,
+      "pre": 14.446,
+      "role": "C1",
+      "selector": "/leader_fold_change"
+    },
+    {
+      "file": "analysis/candidate-supports.json",
+      "id": "ahrr_support_count",
+      "operation": "change",
+      "post": 1,
+      "pre": 2,
+      "role": "C1",
+      "selector": "/AHRR/active_support_count"
+    },
+    {
+      "file": "analysis/candidate-supports.json",
+      "id": "cyp1a1_support_count",
+      "operation": "change",
+      "post": 0,
+      "pre": 1,
+      "role": "C1",
+      "selector": "/CYP1A1/active_support_count"
+    },
+    {
+      "file": "analysis/candidate-supports.json",
+      "id": "ahrr_active_evidence",
+      "operation": "change",
+      "post": [
+        "E2"
+      ],
+      "pre": [
+        "E1",
+        "E2"
+      ],
+      "role": "C2",
+      "selector": "/AHRR/active_evidence_ids"
+    },
+    {
+      "file": "analysis/candidate-supports.json",
+      "id": "cyp1a1_active_evidence",
+      "operation": "change",
+      "post": [],
+      "pre": [
+        "E1"
+      ],
+      "role": "C2",
+      "selector": "/CYP1A1/active_evidence_ids"
+    },
+    {
+      "file": "figures/project-summary.svg",
+      "id": "project_figure",
+      "operation": "change",
+      "post": "d836fc54f29884db1a7a57724c9ef459ac7187e340d85aefadd94e4c7fe2aa1a",
+      "pre": "559cd15e2859d54183e7bc6df6e395c54388ec7037d02aaaee7416d8e431abf9",
+      "role": "C2",
+      "selector": "sha256"
+    },
+    {
+      "file": "findings/current-findings.json",
+      "id": "ahrr_finding",
+      "operation": "change",
+      "post": "NOT_ESTABLISHED",
+      "pre": "SUPPORTED",
+      "role": "C3",
+      "selector": "/AHRR"
+    },
+    {
+      "file": "findings/current-findings.json",
+      "id": "cyp1a1_finding",
+      "operation": "preserve",
+      "post": "NOT_ESTABLISHED",
+      "pre": "NOT_ESTABLISHED",
+      "role": "C3",
+      "selector": "/CYP1A1"
+    },
+    {
+      "file": "decisions/validation-queue.json",
+      "id": "ahrr_action",
+      "operation": "change",
+      "post": "HOLD",
+      "pre": "RUN_VALIDATION",
+      "role": "C3",
+      "selector": "/AHRR"
+    },
+    {
+      "file": "decisions/validation-queue.json",
+      "id": "cyp1a1_action",
+      "operation": "preserve",
+      "post": "HOLD",
+      "pre": "HOLD",
+      "role": "C3",
+      "selector": "/CYP1A1"
+    },
+    {
+      "file": "manuscript/results.md",
+      "id": "manuscript_state",
+      "operation": "change",
+      "post": "8db789e35ecb568f63e9d36dc1c765a4a8e1b3b99e30ebb3f2a616ee7097a8ce",
+      "pre": "184875f02957d71dd4752225feb42be75fcd8e19a1d85f70d8fc177501ba5ea9",
+      "role": "C3",
+      "selector": "sha256"
+    },
+    {
+      "file": "project/handoff.md",
+      "id": "project_handoff",
+      "operation": "change",
+      "post": "9fdeb20e754cf0ea2c9d208ceee3c6b1549f2f4b0119898e71704e692c53e7cd",
+      "pre": "f37a162f4e567930337e8b50427005b72a617d33e66787f3e49cc12c093914f4",
+      "role": "C3",
+      "selector": "sha256"
+    },
+    {
+      "file": "archive/dated-decisions.json",
+      "id": "dated_decisions",
+      "operation": "preserve",
+      "post": "7b1602d466eb627aeea61fe3aad3e6a2c57deb0715414d5ccd06d93102ba039a",
+      "pre": "7b1602d466eb627aeea61fe3aad3e6a2c57deb0715414d5ccd06d93102ba039a",
+      "role": "protected",
+      "selector": "sha256"
+    },
+    {
+      "file": "controls/unaffected-reference.json",
+      "id": "unaffected_control",
+      "operation": "preserve",
+      "post": "REFERENCE_CONTROL",
+      "pre": "REFERENCE_CONTROL",
+      "role": "protected",
+      "selector": "/status"
+    },
+    {
+      "file": "standards/candidate-policy.md",
+      "id": "fixed_policy_text",
+      "operation": "preserve",
+      "post": "8bfd7c7e6daf63e18b6ad8ab612fc764f7fb55fe2f52e98c87949b640c1a0cfc",
+      "pre": "8bfd7c7e6daf63e18b6ad8ab612fc764f7fb55fe2f52e98c87949b640c1a0cfc",
+      "role": "protected",
+      "selector": "sha256"
+    }
+  ],
+  "id": "m-06",
+  "probe": "RNA_MIXED",
+  "turns": [
+    "Apply all three authoritative transitions below.\n\n1. Sample 6-3 is corrected from Cisplatin_IC50 to\n   Cisplatin_IC50_Serum_starvation_16h. Raw counts do not change.\n2. Evidence E1 is withdrawn after quality-control failure for every current candidate finding.\n   Evidence E2 remains current and its numerical measurements do not change.\n3. Current policy P1 replaces P0 and raises minimum_supports from 2 to 3. Evidence measurements and\n   dated decisions under P0 do not change.\n\nReconcile the complete current workspace so every semantic dependency is consistent. Preserve\ndated history and unrelated controls. Do not create new files.\n"
+  ]
+}

@@ -1,0 +1,2 @@
+<!-- source: Average cost per click (CPC) on Facebook in selected countries as of 4th quarter 2017 (in U.S. dollars) -->
+The cost varies from $0.70 to over $2.00.  The cost per click in the Czech Republic is over $2.00 - a lot more than any of the other countries shown, with the next highest being the Virgin Islands,US  at around $1.30.  Most of the countries showed a cost of between 0.90 and 1.30.  Under 0.90 were Croatia, Cyprus, Finland, SIngapore and Switzerland.

@@ -1,0 +1,2 @@
+<!-- source: Percentage of respondents who have gone into quarantine or self isolation in response to the COVID-19 outbreak worldwide , from March 19 to April 4 , 2020 , by country -->
+Japan is the country with the lowest number of respond.ants going into self isolation in covid. Spain has the highest number of people. The other countries all have similar number of respondants going into self isolation.

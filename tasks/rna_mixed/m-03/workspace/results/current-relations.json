@@ -1,0 +1,11 @@
+{
+  "active_evidence_ids": [
+    "E1"
+  ],
+  "ranked_candidates": [
+    "CYP1A1"
+  ],
+  "support_join": [
+    "E1:CBD_IC50_vs_Cisplatin_IC50"
+  ]
+}

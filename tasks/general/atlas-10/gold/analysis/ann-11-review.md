@@ -1,0 +1,2 @@
+<!-- source: Total annual player salaries in the sports industry in 2019/20 , by league (in billion U.S. dollars) -->
+The diagram clearly represents that NFL NBA and MLB  are the top three highest earning players, with NFL earning around 5.5 billion, NBA earning around 3.7 billion, and MLB around 3.5 billion. The chart also represents that the drastic earnings difference between the highest earning player, NFL earning 5.5 billion and the lower earning player CFL earning just a fraction of a billion, which means it is over 5 times lower.

@@ -1,0 +1,7 @@
+<!-- source: Ranking of the top trading partners of the United States for trade goods in 2019 , by import value (in billion U.S. dollars) -->
+
+# Distribution profile
+
+- The median entry is **63.2**.
+- The top three entries account for **57%** of this chart's total.
+- **12** entries fall below half the leader's value.

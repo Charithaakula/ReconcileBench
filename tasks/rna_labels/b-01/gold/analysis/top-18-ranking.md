@@ -1,0 +1,21 @@
+<!-- source: Top responding genes, Cisplatin IC50 CBD IC50 versus DMSO -->
+# Entries by value, highest first
+
+1. THBS1
+2. AHRR
+3. NR4A3
+4. CYP1A1
+5. ALDH1A3
+6. GDF15
+7. CCN2
+8. KRT80
+9. ABCA12
+10. ENSG00000235523
+11. CCN1
+12. LYNX1
+13. KRT7
+14. SULF2
+15. SEMA7A
+16. GDA
+17. ENSG00000251095
+18. TP53I3

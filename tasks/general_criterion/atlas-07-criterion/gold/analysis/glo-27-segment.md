@@ -1,0 +1,5 @@
+<!-- source: Leading global Fintech corporations in 2016 , by revenue from financial services (in billion U.S. dollars) -->
+
+# Segment note
+
+The leader outsells the runner-up by roughly **8%**.

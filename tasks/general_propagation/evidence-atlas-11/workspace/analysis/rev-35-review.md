@@ -1,0 +1,2 @@
+<!-- source: Revenue of leading software companies in the United Kingdom (UK) in 2011 in million U.S. dollars -->
+Sage has the highest software revenue in the chart, with a revenue of 1,900 million dollars. This is by far the highest revenue as all the other companies have a lot less revenue in comparison (less than 500 million). Alterian and Delcam have the lowest revenue, less than 100 million dollars.

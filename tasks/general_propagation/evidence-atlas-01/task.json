@@ -1,0 +1,29 @@
+{
+  "id": "evidence-atlas-01",
+  "probe": "TYPED",
+  "arm": "evidence",
+  "turns": [
+    "Read README.md and briefly identify the workspace's sources of record and its consistency requirement. Do not edit files yet.",
+    "Locate the review criterion, its current truth record, and the decision that depends on it. Briefly report their current values; do not edit files yet.",
+    "Before the handoff, confirm which records are authoritative and which are derived. Do not edit files yet.",
+    "The figures behind \"Total number of confirmed coronavirus (COVID-19) cases in th\" were revised: Iran was misreported as 628780 and the correct value is 74355.3. Apply this authoritative correction and reconcile every derived record in the workspace. Policies that were not revised must remain unchanged."
+  ],
+  "typed": {
+    "seed": 1,
+    "transition": "evidence",
+    "criterion_id": "chart-c25-review",
+    "source_rel": "data/c25/values.csv",
+    "source_post_sha256": "894a7e6052c17ffc4060c72321b2255f89bddc387ad414aded94705e0bfa225c",
+    "old_threshold": 6.992539,
+    "new_threshold": 6.992539,
+    "pre_ratio": 7.675256,
+    "post_ratio": 6.309823,
+    "expected_criterion_satisfied": false,
+    "expected_review_required": false,
+    "affected_fields": [
+      "analysis/criterion-status.json#criterion_satisfied",
+      "decisions/review-queue.json#review_required"
+    ],
+    "preservation_field": "policy/review-policy.json#minimum_leader_to_median_multiple"
+  }
+}

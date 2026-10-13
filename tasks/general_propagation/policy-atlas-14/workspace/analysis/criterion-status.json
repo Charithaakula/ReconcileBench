@@ -1,0 +1,10 @@
+{
+  "criterion_id": "chart-c24-review",
+  "criterion_satisfied": true,
+  "depends_on": [
+    "target_chart_values",
+    "review-policy.json"
+  ],
+  "observed_leader_to_median_multiple": 3.76,
+  "record_type": "derived_criterion_truth"
+}

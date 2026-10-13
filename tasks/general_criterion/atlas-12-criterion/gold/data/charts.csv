@@ -1,0 +1,61 @@
+id,title,unit
+c01,Universities in the United States ranked by number of Fortune 500 CEO alumni in 2020,Number of Fortune 500 CEO alumni
+c02,Ranking of air transport companies in the Nordic countries as of September 2020 by turnover (in million euros),Turnover in million euros
+c03,Revenue of leading software companies in the United Kingdom (UK) in 2011 in million U.S. dollars,Software revenue in million U.S. dollars
+c04,"Construction costs of buildings in Alberta , Canada in 2019 , by select building type (in Canadian dollars per square meter)",Maximum
+c05,"Gross domestic product (GDP) in Italy in 2018 , by region (in million euros)",GDP in million euros in current prices
+c06,"Digital transformation in enterprise environment worldwide : technology adoption strategy , as of 2017",Addition (not replacing existing technology)
+c07,"Advertising spending in Vietnam from 2004 to 2018 , by medium (in million U.S. dollars)",Magazines
+c08,"Percentage of government employees furloughed after U.S. government shutdown as of October 1 , 2013 , by agency and department",Percentage of employees
+c09,Digital services ranked by usage to consume or share digital content in the United Kingdom (UK) as of May 2018,Share of respondents
+c10,"Percentage of income held by the richest 20 % of the population in Latin America in 2018 , by country",Share of income held by richest 20%
+c11,"Rate of opioid-related emergency department visits in the United States in 2014 , by state (per 100,000 population)","Number of visits per 100,000 population"
+c12,"Number of people shot to death by the police in the United States from 2017 to November 2020 , by month",2017
+c13,Theme of mosques in the United Kingdom in 2017,Number of masjids
+c14,"Average annual salaries in the armed forces of the United Kingdom in 2018/19 , by rank (in British pounds)",Salary in GBP
+c15,Area of corn for grain harvested in Canada from 2008 to 2020 (in million hectares),Area in million hectares
+c16,"Number of opioid overdose deaths in Canada in 2019 , by province",Number of deaths
+c17,Average prices for palm oil worldwide from 2014 to 2025 (in nominal U.S. dollars per mt),Price in nominal U.S. dollars per metric ton
+c18,Birth rate in Belgium from 2010 to 2022,Number of children per woman
+c19,"Percentage of respondents who have gone into quarantine or self isolation in response to the COVID-19 outbreak worldwide , from March 19 to April 4 , 2020 , by country",Mar 26-28
+c20,Largest contributors to pay TV growth in Asia from 2011 to 2020,Share of cumulative subscriptions
+c21,Revenue of the Washington Capitals from 2005/06 to 2018/19 (in million U.S. dollars),Revenue in million U.S. dollars
+c22,Monthly import value of furniture and fixtures in Canada from January 2014 to March 2020 (in million Canadian dollars),2019
+c23,"Most used libraries , frameworks , and tools among developers , worldwide , as of early 2020",Share of respondents
+c24,"Leading players of the German national football team as of September 2020 , by market value (in million euros)",Market value in million euros
+c25,Average prices for aluminum from 2014 to 2025 (in nominal U.S. dollars per mt),Price in nominal U.S. dollars per metric ton
+c26,"Number of nurses in registered nursing in Canada in 2019 , by province",Number of nurses
+c27,"Prices of most affordable one-way tickets of Aeroflot for domestic flights in Russia from end of March to June 2020 , by destination (in Russian rubles)",June 2020
+c28,"Leading supplier of steam coal to the United Kingdom (UK) from 2002 to 2019 (in 1,000 metric tons)",South Africa
+c29,"Leading pharmaceutical companies in Denmark in 2018 , by revenue (in billion DKK)",Revenue in billion DKK
+c30,Chicago Bears all-time leaders number of touchdowns scored from 1920 to 2020,Touchdowns scored
+c31,"Gross domestic product of Quebec , Canada in 2019 , by industry (in million chained 2012 Canadian dollars)",GDP in million chained 2012 Canadian dollars
+c32,Chicago Bears all-time receiving leaders from 1920 to 2020 (in yards),Receiving yards
+c33,"Percentage of adults who have earned a university degree , by country 2007",Percent with a university degree
+c34,"Number of snowmobile registrations in Canada in 2018 , by province",Number of registrations
+c35,Green Bay Packers all-time receiving leaders from 1921 to 2020 (in yards),Receiving yards
+c36,Indian states with the highest revenue from motor vehicle tax in financial year 2016 (in billion Indian rupees),Tax revenue in billion Indian rupees
+c37,The most populated municipalities in Luxembourg in 2020,Inhabitants
+c38,"Number of immigrants in reception centers in Italy as of November 2020 , by region",Number of immigrants
+c39,"Leading global Fintech corporations in 2016 , by revenue from financial services (in billion U.S. dollars)",Total revenue
+c40,"Share of consumers who pay for news publications in the United States as of March 2017 , by type",Share of respondents
+c41,Refinery gold production in the United States from 2008 to 2019 (in metric tons),Secondary (new and old scrap)
+c42,"Leading causes of deaths in the United Kingdom (UK) from 2001 to 2018 , by group",Influenza and pneumonia
+c43,"Top 20 generic pharmaceutical companies worldwide in 2015 , by revenue (in million U.S. dollars)",Revenue in million U.S. dollars
+c44,"Smartphone penetration rate in top 20 countries worldwide , as of September 2018",Penetration rate
+c45,Number of Nobel Laureates in economics by nationality 1969 to 2020,Number of Nobel Prizes awarded for economics
+c46,Share of children who visited a museum in the last year in England from 2008/09 to 2019/20,Share of respondents
+c47,"Percentage of students to obtain a graduate degree in the United States in 2013 , by major group",Share of U.S. students with a graduate degree
+c48,Transaction value of mergers and acquisitions in the U.S. healthcare and life sciences industry from 2009 to 2020 (in billion U.S. dollars),Value of transactions in billion U.S. dollars
+c49,"Number of visits to Christmas markets in Europe in 2014 , by country (in millions)",Number of visits in millions
+c50,"Coal production from deep and surface mining in the United Kingdom (UK) from 1970 to 2019 (in 1,000 metric tons)",Surface mining
+c51,"Share of adult population taking part in free time activities in England in 2017/18 , by type",Share of respondents
+c52,Philadelphia Phillies games average ticket price from 2006 to 2019 (in U.S. dollars),Average ticket price in U.S. dollars
+c53,"Number of Russian tourist arrivals in Egypt from 2012 to October 2017 , by month (in1,000s)",2012
+c54,"Mine production of nickel in Indonesia from 2006 to 2019 (in 1,000 metric tons)",Production in thousand metric tons
+c55,Average prices for maize worldwide from 2014 to 2025 (in nominal U.S. dollars per mt),Price in nominal U.S. dollars per metric ton
+c56,Largest companies in the United Kingdom based on revenue in 2019 (in billion US dollars),Revenue in billion US dollars
+c57,"Number of reports of money laundering in Italy in 1st half of 2019 , by region",Number of suspected cases
+c58,Average prices for coconut oil worldwide from 2014 to 2025 (in nominal U.S. dollars per mt),Price in nominal U.S. dollars per metric ton
+c59,"Which fast food (quick service) restaurants do you go to , if any ?",Share of respondents
+c60,"Number of international visitor arrivals in Finland from January to July 2020 , by country of origin",June*

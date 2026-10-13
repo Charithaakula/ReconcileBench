@@ -1,0 +1,2 @@
+<!-- source: Leading causes of deaths in the United Kingdom (UK) from 2001 to 2018 , by group -->
+The highest number of deaths (17000) caused by influenza and pneumonia were caused when the Malignant neoplasm of trachea, bronchus and lung lied at 19792. The lowest number of deaths (12500) caused by influenza and pneumonia were caused when the Malignant neoplasm of trachea, bronchus and lung lied at 19569. There doesn't seem to be a trend.

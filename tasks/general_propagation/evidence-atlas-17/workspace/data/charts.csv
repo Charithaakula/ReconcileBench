@@ -1,0 +1,41 @@
+id,title,unit
+c01,Share of Americans who believe in the following theories and myths,Share of respondents
+c02,"Forecast volume of vegetable oil imported to the European Union (EU 27) from 2015 to 2029 (in 1,000 tonnes)",Volume in thousand tonnes
+c03,Transmission distribution and other losses of the public electricity distribution system in the United Kingdom (UK) from 2000 to 2019 (in terawatt hours),in terawatt hours
+c04,"Digital transformation in enterprise environment worldwide : technology adoption strategy , as of 2017",Addition (not replacing existing technology)
+c05,Number of cyber security incident reports by federal agencies in the United States from FY 2006 to 2018,Annual number of reported incidents
+c06,Percentage of women in corporate boards worldwide in 2013,Proportion of women
+c07,"Gross domestic product (GDP) in Italy in 2018 , by region (in million euros)",GDP in million euros in current prices
+c08,"Number of tourist arrivals in Egypt from 2012 to 2018 , by month (in1,000s)",2015
+c09,"Leading footwear retailers , ranked by market share in the United Kingdom (UK) in 2007 and 2012",2012*
+c10,Rental prices of prime logistic properties in selected European cities as of 4th quarter 2019 (in euros per square meter per year),Annual cost per square meter in euros
+c11,"Percentage of respondents who have gone into quarantine or self isolation in response to the COVID-19 outbreak worldwide , from March 19 to April 4 , 2020 , by country",Mar 26-28
+c12,Pharmaceutical imports and exports of major Asian countries in 2014 (in million U.S. dollars),Exports
+c13,"Number of Royal Canadian Mounted Police officers in Canada in 2019 , by level of policing and province",Federal and other policing **
+c14,"U.S. e-commerce value of computers , computer equipment and software wholesale trade from 2007 to 2018 (in million U.S. dollars)",Total
+c15,"Percentage of respondents worldwide who agree with the idea of self-quarantine if diagnosed with COVID-19 as of March 14 , 2020 , by country",Strongly agree
+c16,"Percentage of income held by the richest 20 % of the population in Latin America in 2018 , by country",Share of income held by richest 20%
+c17,Transaction value of mergers and acquisitions in the U.S. healthcare and life sciences industry from 2009 to 2020 (in billion U.S. dollars),Value of transactions in billion U.S. dollars
+c18,"Investment in clean energy globally in 2019 , by select country (in billion U.S. dollars)",Investment in billion U.S. dollars
+c19,"Value of total non-performing loans in Europe as of June 2016 , by country (in billion euros)",Non-performing loan value in billion euros
+c20,"Largest companies in Norrbotten county in Sweden as of February 2020 , by number of employees",Number of employees
+c21,Film studio ranking by number of `` Best Picture '' Academy Awards as of 2020,Number of awards
+c22,Number of United States residents travelling overseas from 2002 to 2019 (in millions),Number of tourists in millions
+c23,Total protection rate of asylum seekers from the main countries of origin in Germany in 2018,Total protection rate
+c24,"Leading players of the German national football team as of September 2020 , by market value (in million euros)",Market value in million euros
+c25,Average prices for soybean oil worldwide from 2014 to 2025 (in nominal U.S. dollars per mt),Price in nominal U.S. dollars per metric ton
+c26,Leading pets ranked by estimated population size in the United Kingdom (UK) in 2018/19 (in millions),Population size in millions
+c27,"Ranking of the top trading partners of the United States for trade goods in 2019 , by import value (in billion U.S. dollars)",Import value in billion U.S. dollars
+c28,"Leading 20 countries based on mortality rate attributed to unintentional poisoning in 2016 (per 100,000 population)","Mortality rate per 100,000 population"
+c29,"Smartphone penetration rate in top 20 countries worldwide , as of September 2018",Penetration rate
+c30,"Leading supplier of steam coal to the United Kingdom (UK) from 2002 to 2019 (in 1,000 metric tons)",South Africa
+c31,Value of major cross-border capital investments into European real estate market in the 12 months prior to 1st quarter of 2016 (in billion euros),Investment in billion euros
+c32,Largest companies in the United Kingdom based on revenue in 2019 (in billion US dollars),Revenue in billion US dollars
+c33,Emerging Markets Bond Index (EMBI+) in selected Latin American countries in July 2020 (in index points),Emerging Markets Bond Index (EMBI+)
+c34,Penetration rate of leading social networks in France during the third quarter of 2019,Share of Internet users
+c35,"Value of remittance sent from Singapore in 2017 , by country of destination (in million U.S. dollars)",Remittance in million U.S. dollars
+c36,"Average price of used cars in Italy as of 2017 , by region (in euros)",Average price in euros
+c37,College majors with the highest participation rate of Hispanic students in the U.S. in 2015,Share of Hispanic students
+c38,"Number of retail chains in Romania in 2020 , by sector",Number of retail chains
+c39,"Leading countries in crude oil production in Latin America and the Caribbean in 2019 (in 1,000 barrels per day)",Output in thousand barrels per day
+c40,The most populated municipalities in Luxembourg in 2020,Inhabitants

@@ -1,0 +1,8 @@
+<!-- source: Top responding genes, Cisplatin IC50 CBD IC50 Serum starvation 16h versus DMSO -->
+
+# Relational notes
+
+- The leading entry stands **more than 3 times** the chart median.
+- By leader value this chart ranks **1** of 20.
+- Its leader is about **2.2** times the leader of chart `top-20`.
+- Because the leader exceeds 3 times the chart median, this chart carries a **review flag**.

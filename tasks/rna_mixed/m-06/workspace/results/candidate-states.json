@@ -1,0 +1,19 @@
+{
+  "AHRR": {
+    "action": "RUN_VALIDATION",
+    "active_evidence_ids": [
+      "E1",
+      "E2"
+    ],
+    "active_support_count": 2,
+    "status": "SUPPORTED"
+  },
+  "CYP1A1": {
+    "action": "HOLD",
+    "active_evidence_ids": [
+      "E1"
+    ],
+    "active_support_count": 1,
+    "status": "NOT_ESTABLISHED"
+  }
+}

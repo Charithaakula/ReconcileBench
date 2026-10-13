@@ -1,0 +1,141 @@
+{
+  "arm": "evidence_withdrawal",
+  "event": "Evidence E1 is withdrawn after QC failure for AHRR; E2 is unchanged.",
+  "fields": [
+    {
+      "file": "sources/evidence-status.json",
+      "id": "source_transition",
+      "operation": "change",
+      "post": "WITHDRAWN_QC",
+      "pre": "CURRENT",
+      "role": "direct",
+      "selector": "/records/0/status"
+    },
+    {
+      "file": "analysis/current-computation.json",
+      "id": "active_support_count",
+      "operation": "change",
+      "post": 1,
+      "pre": 2,
+      "role": "C1",
+      "selector": "/active_support_count"
+    },
+    {
+      "file": "analysis/current-computation.json",
+      "id": "e1_qualification",
+      "operation": "preserve",
+      "post": true,
+      "pre": true,
+      "role": "C1",
+      "selector": "/e1_qualifies"
+    },
+    {
+      "file": "analysis/current-computation.json",
+      "id": "e2_qualification",
+      "operation": "preserve",
+      "post": true,
+      "pre": true,
+      "role": "C1",
+      "selector": "/e2_qualifies"
+    },
+    {
+      "file": "results/current-relations.json",
+      "id": "active_evidence_ids",
+      "operation": "change",
+      "post": [
+        "E2"
+      ],
+      "pre": [
+        "E1",
+        "E2"
+      ],
+      "role": "C2",
+      "selector": "/active_evidence_ids"
+    },
+    {
+      "file": "results/current-relations.json",
+      "id": "support_join",
+      "operation": "change",
+      "post": [
+        "E2:CBD_IC50_Serum_starvation_16h_vs_Cisplatin_IC50_Serum_starvation_16h"
+      ],
+      "pre": [
+        "E1:CBD_IC50_vs_Cisplatin_IC50",
+        "E2:CBD_IC50_Serum_starvation_16h_vs_Cisplatin_IC50_Serum_starvation_16h"
+      ],
+      "role": "C2",
+      "selector": "/support_join"
+    },
+    {
+      "file": "figures/candidate-summary.svg",
+      "id": "candidate_figure",
+      "operation": "change",
+      "post": "dd1307e536156e2aa57ea3015c9228de313c99bddb49e1ac4120be38b8314315",
+      "pre": "bd6a2cb5f8f554e0afc631e99641ccd0458e13c5c2e002b7b807815c69842e6c",
+      "role": "C2",
+      "selector": "sha256"
+    },
+    {
+      "file": "findings/current-finding.json",
+      "id": "current_finding",
+      "operation": "preserve",
+      "post": {
+        "candidate": "AHRR",
+        "status": "SUPPORTED"
+      },
+      "pre": {
+        "candidate": "AHRR",
+        "status": "SUPPORTED"
+      },
+      "role": "C3",
+      "selector": "/"
+    },
+    {
+      "file": "decisions/validation-queue.json",
+      "id": "licensed_action",
+      "operation": "preserve",
+      "post": {
+        "candidate": "AHRR",
+        "operation": "RUN_VALIDATION"
+      },
+      "pre": {
+        "candidate": "AHRR",
+        "operation": "RUN_VALIDATION"
+      },
+      "role": "C3",
+      "selector": "/"
+    },
+    {
+      "file": "archive/dated-decision.json",
+      "id": "dated_finding",
+      "operation": "preserve",
+      "post": "SUPPORTED",
+      "pre": "SUPPORTED",
+      "role": "protected",
+      "selector": "/finding"
+    },
+    {
+      "file": "archive/dated-decision.json",
+      "id": "dated_action",
+      "operation": "preserve",
+      "post": "RUN_VALIDATION",
+      "pre": "RUN_VALIDATION",
+      "role": "protected",
+      "selector": "/action"
+    },
+    {
+      "file": "controls/unaffected-reference.json",
+      "id": "unaffected_control",
+      "operation": "preserve",
+      "post": "REFERENCE_CONTROL",
+      "pre": "REFERENCE_CONTROL",
+      "role": "protected",
+      "selector": "/status"
+    }
+  ],
+  "id": "m-02",
+  "probe": "RNA_MIXED",
+  "turns": [
+    "Evidence E1 is withdrawn after QC failure for AHRR; E2 is unchanged.\n\nReconcile the complete current workspace. Preserve dated history and unrelated controls. Do not create new files.\n"
+  ]
+}

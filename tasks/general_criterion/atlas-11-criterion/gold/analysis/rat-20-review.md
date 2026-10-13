@@ -1,0 +1,2 @@
+<!-- source: Total rate of COVID-19 deaths compared to deaths among long-term care residents in select countries worldwide as of May 2020 (per million population) -->
+Belgium had the highest number of Ltc deaths. Hungary and Slovenia had the least amount.

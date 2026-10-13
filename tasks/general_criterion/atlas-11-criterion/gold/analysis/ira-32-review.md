@@ -1,0 +1,2 @@
+<!-- source: Iran 's crude oil exports between January and September 2011 , by destination country (in 1,000 barrels per day) -->
+china exports the largest amount of crude oil with over 500 thousand barrels per day.

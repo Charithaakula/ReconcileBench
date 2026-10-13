@@ -1,0 +1,4 @@
+# Current findings
+
+- AHRR: NOT_ESTABLISHED; HOLD
+- CYP1A1: NOT_ESTABLISHED; HOLD

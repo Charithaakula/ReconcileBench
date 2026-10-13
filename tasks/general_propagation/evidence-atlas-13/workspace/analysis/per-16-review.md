@@ -1,0 +1,2 @@
+<!-- source: Percentage of government employees furloughed after U.S. government shutdown as of October 1 , 2013 , by agency and department -->
+No government department or agency released more than 1% of their employees. Highest furlough rate is in NASA. Lowest furlough rate is in Department of Veteran Affairs. Of the 14 agency or department displayed, 6 of them have furloughed over 0.80% of their employees.

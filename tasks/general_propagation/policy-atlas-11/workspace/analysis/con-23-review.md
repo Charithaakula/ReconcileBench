@@ -1,0 +1,2 @@
+<!-- source: Construction costs of buildings in Alberta , Canada in 2019 , by select building type (in Canadian dollars per square meter) -->
+The most expensive buildings were health care - ambulatory care at just over 5000 dollars per square meters. The cheapest were warehouses which cost around 1500 dollars per square meter. The remaining buildings were similar prices with the higher education being one of the outliers.

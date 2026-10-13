@@ -1,0 +1,21 @@
+id,title,unit
+c01,"Top responding genes, Cisplatin IC50 CBD IC50 versus Untreated",fold change vs Untreated
+c02,"Top responding genes, CBD IC50 Serum starvation 16h versus Serum starvation",fold change vs Serum starvation
+c03,"Top responding genes, Cisplatin IC50 Serum starvation 16h versus Serum starvation",fold change vs Serum starvation
+c04,"Top responding genes, Cisplatin IC50 CBD IC50 versus Cisplatin IC50 CBD IC50 Serum starvation 16h",fold change vs Cisplatin IC50 CBD IC50 Serum starvation 16h
+c05,"Top responding genes, Cisplatin IC50 versus Cisplatin IC50 CBD IC50",fold change vs Cisplatin IC50 CBD IC50
+c06,"Top responding genes, CBD IC50 versus Cisplatin IC50",fold change vs Cisplatin IC50
+c07,"Top responding genes, CBD IC50 versus Untreated",fold change vs Untreated
+c08,"Top responding genes, Cisplatin IC50 CBD IC50 versus Serum starvation",fold change vs Serum starvation
+c09,"Top responding genes, DMSO versus Untreated",fold change vs Untreated
+c10,"Top responding genes, CBD IC50 versus Serum starvation",fold change vs Serum starvation
+c11,"Top responding genes, CBD IC50 Serum starvation 16h versus Cisplatin IC50 Serum starvation 16h",fold change vs Cisplatin IC50 Serum starvation 16h
+c12,"Top responding genes, CBD IC50 Serum starvation 16h versus Cisplatin IC50 CBD IC50",fold change vs Cisplatin IC50 CBD IC50
+c13,"Top responding genes, Cisplatin IC50 CBD IC50 Serum starvation 16h versus Serum starvation",fold change vs Serum starvation
+c14,"Top responding genes, Cisplatin IC50 versus Untreated",fold change vs Untreated
+c15,"Top responding genes, Cisplatin IC50 versus Cisplatin IC50 CBD IC50 Serum starvation 16h",fold change vs Cisplatin IC50 CBD IC50 Serum starvation 16h
+c16,"Top responding genes, Cisplatin IC50 versus Serum starvation",fold change vs Serum starvation
+c17,"Top responding genes, Cisplatin IC50 CBD IC50 Serum starvation 16h versus Untreated",fold change vs Untreated
+c18,"Top responding genes, Cisplatin IC50 CBD IC50 Serum starvation 16h versus Cisplatin IC50 Serum starvation 16h",fold change vs Cisplatin IC50 Serum starvation 16h
+c19,"Top responding genes, CBD IC50 versus CBD IC50 Serum starvation 16h",fold change vs CBD IC50 Serum starvation 16h
+c20,"Top responding genes, Cisplatin IC50 CBD IC50 versus Cisplatin IC50 Serum starvation 16h",fold change vs Cisplatin IC50 Serum starvation 16h

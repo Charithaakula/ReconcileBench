@@ -1,0 +1,21 @@
+<!-- source: Top responding genes, Cisplatin IC50 CBD IC50 versus Cisplatin IC50 CBD IC50 Serum starvation 16h -->
+# Entries by value, highest first
+
+1. ENSG00000272216
+2. ENSG00000227921
+3. MIR210HG
+4. PFKFB4
+5. VIM
+6. WHAMMP2
+7. AKR1E2
+8. SLC6A13
+9. PIF1
+10. RND1
+11. DMBT1
+12. SCIRT
+13. CCNF
+14. ENSG00000270580
+15. CBR3
+16. KIF20A
+17. RPS2P7
+18. PPFIA4

@@ -1,0 +1,29 @@
+# Merge after upstream mini.yaml. The agent code and prompt templates are upstream.
+agent:
+  agent_class: interactive
+  mode: yolo
+  confirm_exit: true
+  step_limit: 60
+  cost_limit: 0.50
+  wall_time_limit_seconds: 3600
+
+environment:
+  environment_class: docker
+  image: python:3.13-slim@sha256:9d2e5553305c7c7b0097999bb17187c69b921ccd6bc9d40e4bb5ebe652c00285
+  cwd: /workspace
+  interpreter: [bash, -c]
+  timeout: 30
+  container_timeout: 2h
+  forward_env: []
+  # The launch command adds the single workspace bind mount.
+  run_args: [--rm, --network=none]
+
+model:
+  model_class: litellm_response
+  model_name: openai/gpt-5.6-luna
+  model_kwargs:
+    reasoning:
+      effort: low
+    max_output_tokens: 4096
+    store: false
+    include: [reasoning.encrypted_content]

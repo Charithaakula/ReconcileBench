@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "candidate": "CYP1A1",
+      "contrast": "CBD_IC50_vs_Cisplatin_IC50",
+      "fold_change": 3.039,
+      "id": "E1",
+      "qualifies": true,
+      "rank": 2,
+      "status": "WITHDRAWN_QC"
+    },
+    {
+      "candidate": "CYP1A1",
+      "contrast": "CBD_IC50_Serum_starvation_16h_vs_Cisplatin_IC50_Serum_starvation_16h",
+      "fold_change": null,
+      "id": "E2",
+      "qualifies": false,
+      "rank": null,
+      "status": "CURRENT"
+    }
+  ]
+}

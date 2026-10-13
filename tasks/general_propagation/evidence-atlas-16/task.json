@@ -1,0 +1,29 @@
+{
+  "id": "evidence-atlas-16",
+  "probe": "TYPED",
+  "arm": "evidence",
+  "turns": [
+    "Read README.md and briefly identify the workspace's sources of record and its consistency requirement. Do not edit files yet.",
+    "Locate the review criterion, its current truth record, and the decision that depends on it. Briefly report their current values; do not edit files yet.",
+    "Before the handoff, confirm which records are authoritative and which are derived. Do not edit files yet.",
+    "The figures behind \"Number of non-EU citizens working in Italy in 2019 , by sect\" were revised: Other services was misreported as 444288 and the correct value is 119133. Apply this authoritative correction and reconcile every derived record in the workspace. Policies that were not revised must remain unchanged."
+  ],
+  "typed": {
+    "seed": 16,
+    "transition": "evidence",
+    "criterion_id": "chart-c14-review",
+    "source_rel": "data/c14/values.csv",
+    "source_post_sha256": "2f6b93a35b8b171a7d689b47b8304452a8a037b360cc212b17a4b6c88c3bde48",
+    "old_threshold": 3.628409,
+    "new_threshold": 3.628409,
+    "pre_ratio": 4.248308,
+    "post_ratio": 3.00851,
+    "expected_criterion_satisfied": false,
+    "expected_review_required": false,
+    "affected_fields": [
+      "analysis/criterion-status.json#criterion_satisfied",
+      "decisions/review-queue.json#review_required"
+    ],
+    "preservation_field": "policy/review-policy.json#minimum_leader_to_median_multiple"
+  }
+}

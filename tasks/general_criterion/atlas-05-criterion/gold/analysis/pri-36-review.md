@@ -1,0 +1,2 @@
+<!-- source: Average prices for maize worldwide from 2014 to 2025 (in nominal U.S. dollars per mt) -->
+Since 2014, maize has consistently been above 150 dollars per metric ton. The prediction is that it will contain to remain a above this in future years with the cost slowly increasing in 2023,2024 and 2025. However, these predictions are not predicted to reach the 2014 peak where the price was not far from 200dollars per metric ton.
